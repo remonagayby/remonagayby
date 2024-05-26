@@ -16,7 +16,7 @@ I’m Remon Agayby, a **Senior Test Automation Engineer** with more than 4 years
 **My Stats**
 
 <a href="https://github.com/remonagayby/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=remonagayby" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=remonagayby&show_icons=true" />
 </a>
 <a href="https://github.com/remonagayby/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=remonagayby&layout=compact&langs_count=8&card_width=320" />
